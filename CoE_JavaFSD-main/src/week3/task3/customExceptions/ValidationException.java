@@ -1,4 +1,4 @@
-package week3.FeeReportSoftware.customExceptions;
+package week3.task3.customExceptions;
 
 
 

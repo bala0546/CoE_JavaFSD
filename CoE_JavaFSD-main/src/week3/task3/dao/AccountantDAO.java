@@ -1,7 +1,7 @@
-package week3.FeeReportSoftware.dao;
+package week3.task3.dao;
 
-import week3.FeeReportSoftware.models.Student;
-import week3.FeeReportSoftware.utils.DbConnection;
+import week3.task3.models.Student;
+import week3.task3.utils.DbConnection;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package week3.FeeReportSoftware.utils;
+package week3.task3.utils;
 
 
 public class ValidationUtil {

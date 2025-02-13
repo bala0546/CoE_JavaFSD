@@ -1,4 +1,4 @@
-package week3.FeeReportSoftware.models;
+package week3.task3.models;
 
 public class Admin {
     private int id;

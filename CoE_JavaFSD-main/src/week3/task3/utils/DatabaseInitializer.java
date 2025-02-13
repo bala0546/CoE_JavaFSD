@@ -1,4 +1,4 @@
-package week3.FeeReportSoftware.utils;
+package week3.task3.utils;
 
 
 import java.sql.Connection;

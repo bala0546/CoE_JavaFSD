@@ -1,8 +1,8 @@
-package week3.FeeReportSoftware.service;
+package week3.task3.service;
 
-import week3.FeeReportSoftware.customExceptions.ValidationException;
-import week3.FeeReportSoftware.dao.AccountantDAO;
-import week3.FeeReportSoftware.models.Student;
+import week3.task3.customExceptions.ValidationException;
+import week3.task3.dao.AccountantDAO;
+import week3.task3.models.Student;
 
 import java.util.List;
 

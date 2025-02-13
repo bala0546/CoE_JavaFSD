@@ -1,7 +1,7 @@
-package week3.FeeReportSoftware.auth;
+package week3.task3.auth;
 
 
-import week3.FeeReportSoftware.utils.DbConnection;
+import week3.task3.utils.DbConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

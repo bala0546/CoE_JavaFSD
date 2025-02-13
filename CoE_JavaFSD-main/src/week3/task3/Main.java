@@ -1,11 +1,11 @@
-package week3.FeeReportSoftware;
+package week3.task3;
 
-import week3.FeeReportSoftware.auth.Authenticator;
-import week3.FeeReportSoftware.customExceptions.ValidationException;
-import week3.FeeReportSoftware.models.Accountant;
-import week3.FeeReportSoftware.service.AdminService;
-import week3.FeeReportSoftware.utils.DatabaseInitializer;
-import week3.FeeReportSoftware.utils.DbConnection;
+import week3.task3.auth.Authenticator;
+import week3.task3.customExceptions.ValidationException;
+import week3.task3.models.Accountant;
+import week3.task3.service.AdminService;
+import week3.task3.utils.DatabaseInitializer;
+import week3.task3.utils.DbConnection;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

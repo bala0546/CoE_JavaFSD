@@ -1,6 +1,6 @@
-package week3.FeeReportSoftware.utils;
+package week3.task3.utils;
 
-import week3.FeeReportSoftware.customExceptions.DbExpection;
+import week3.task3.customExceptions.DbExpection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
