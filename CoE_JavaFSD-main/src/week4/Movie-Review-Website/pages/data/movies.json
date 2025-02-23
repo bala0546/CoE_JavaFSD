@@ -1,0 +1,53 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "poster_path": "assets/inception.jpg",
+        "release_date": "2010-07-16",
+        "vote_average": 8.8,
+        "overview": "A thief enters dreams to steal secrets."
+      },
+      {
+        "id": 2,
+        "title": "Interstellar",
+        "poster_path": "assets/interstellar.jpg",
+        "release_date": "2014-11-07",
+        "vote_average": 8.6,
+        "overview": "A team of explorers travel through a wormhole in space."
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "poster_path": "assets/dark-knight.jpg",
+        "release_date": "2008-07-18",
+        "vote_average": 9.0,
+        "overview": "Batman faces the Joker in Gotham City."
+      },
+      {
+        "id": 4,
+        "title": "The Matrix",
+        "poster_path": "assets/matrix.jpg",
+        "release_date": "1999-03-31",
+        "vote_average": 8.7,
+        "overview": "A hacker discovers the shocking truth about reality."
+      },
+      {
+        "id": 5,
+        "title": "Avatar",
+        "poster_path": "assets/avatar.jpg",
+        "release_date": "2009-12-18",
+        "vote_average": 7.8,
+        "overview": "A paraplegic marine explores Pandora and its creatures."
+      },
+      {
+        "id": 6,
+        "title": "Avengers: Endgame",
+        "poster_path": "assets/avengers.jpg",
+        "release_date": "2019-04-26",
+        "vote_average": 8.4,
+        "overview": "The Avengers assemble for a final battle against Thanos."
+      }
+    ]
+  }
+  

@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #19191a;
+    color: rgb(114, 97, 97);
+    text-align: center;
+}
+
+header {
+    background: #2c3032;
+    padding: 15px;
+}
+
+.movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.movie-card {
+    width: 200px;
+    background: #111517;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.movie-card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styling */
+header {
+    background-color: #1a1a1a;  /* Dark background */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Website Title */
+header h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Navigation Styling */
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+/* Navigation Links */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+/* Hover Effect */
+nav a:hover {
+    background-color: #ff4500; /* Orange hover effect */
+    color: white;
+}
+/* Review Section Styling */
+section {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+/* Enlarged Textarea */
+textarea {
+    width: 100%;
+    height: 150px;  /* Increased height */
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    resize: vertical; /* Allows resizing only vertically */
+    outline: none;
+}
+
+/* Textarea Focus Effect */
+textarea:focus {
+    border-color: #ff4500;
+    box-shadow: 0 0 5px rgba(255, 69, 0, 0.5);
+}
+
+/* Submit Button Styling */
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #ff4500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+button:hover {
+    background-color: #cc3700;
+}
+/* Centering the Search Section */
+section {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+/* Enlarged Search Input */
+#search-input {
+    width: 100%;
+    height: 50px;  /* Increased height */
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+}
+
+/* Search Input Focus Effect */
+#search-input:focus {
+    border-color: #ff4500;
+    box-shadow: 0 0 5px rgba(255, 69, 0, 0.5);
+}
+
+/* Search Button Styling */
+button {
+    margin-top: 15px;
+    padding: 12px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #ff4500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+button:hover {
+    background-color: #cc3700;
+}
+
+/* Search Results Grid */
+.movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+/* Movie Grid Styling */
+.movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Standardized Movie Poster Styling */
+.movie-card img {
+    width: 200px;  /* Set a fixed width */
+    height: 300px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image fills the box while maintaining aspect ratio */
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
